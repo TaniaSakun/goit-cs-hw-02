@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Database data
+.env
+postgres-data
+
 # Distribution / packaging
 .Python
 build/
